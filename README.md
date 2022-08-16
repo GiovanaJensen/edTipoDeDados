@@ -1,3 +1,3 @@
-#Primeira aula de Estrutura de Dados
+# Primeira aula de Estrutura de Dados
 
-##Tipo de Dados
+## Tipo de Dados
